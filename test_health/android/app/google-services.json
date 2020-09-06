@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416528859506",
+    "firebase_url": "https://health-tester-d729a.firebaseio.com",
+    "project_id": "health-tester-d729a",
+    "storage_bucket": "health-tester-d729a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416528859506:android:efe929f586cbceb206ddeb",
+        "android_client_info": {
+          "package_name": "com.example.test_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416528859506-mqhukmpkb1vu00lfq20qf3446jkmcjq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjsNqGRXAWfD_MNplhpclxnlQ8eKYXv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416528859506-mqhukmpkb1vu00lfq20qf3446jkmcjq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
